@@ -11,3 +11,8 @@ cd merge-sort
 ```
 npm i
 ```
+# Testing.
+Run this command
+```
+npm test
+```
