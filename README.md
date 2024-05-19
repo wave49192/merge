@@ -5,7 +5,7 @@ git clone https://github.com/wave49192/merge.git
 ```
 2. Navigate into the project directory:
 ```
-cd merge-sort
+cd merge
 ```
 3. Install dependencies:
 ```
