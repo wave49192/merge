@@ -56,3 +56,11 @@ export function merge(
 
   return mergedCollection;
 }
+
+// Test the merge function
+const collection_1 = [1, 4, 7];
+const collection_2 = [10, 8, 6, 4, 2];
+const collection_3 = [3, 4, 5, 9];
+
+const mergedArray = merge(collection_1, collection_2, collection_3);
+console.log(mergedArray); // Expected output: [1, 2, 3, 4, 4, 4, 5, 6, 7, 8, 9, 10]
