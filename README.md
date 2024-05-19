@@ -16,3 +16,8 @@ Run this command
 ```
 npm test
 ```
+# Executing the function.
+Run this command
+```
+ts-node merge.ts
+```
